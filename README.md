@@ -3,7 +3,7 @@
 This repo contains the replication material for my masters thesis, "Indian Legislators and the Wikipedia Marketplace of Information". 
 
 The files "data extraction", "pageviews extraction", and "revision history extraction" contain code for data collection from various Wikipedia sources.
-The extracted data is stored in the folder "Raw Data" and used as inputs for susbequent analysis. Please edit the file pathway when reading the CSV files on a local system. 
+The extracted data is stored in the folder "Raw Data" and used as inputs for susbequent analysis. Please edit the file pathway when writing to or reading the CSV files on a local system. 
 
 The following files contain additional analysis for the thesis: 
 
