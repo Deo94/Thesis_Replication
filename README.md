@@ -21,4 +21,4 @@ The following files contain additional analysis for the thesis:
 
 -NIC IP: Contains code for examining how many edits originate from the National Informatics Centre. 
 
--page assessment: Contains code for analysing Wikipedia page assessmeng of legislator articles. 
+-page assessment: Contains code for analysing Wikipedia page assessment of legislator articles. 
